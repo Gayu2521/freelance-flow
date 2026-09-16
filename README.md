@@ -40,4 +40,4 @@ Follow these steps to run the project locally on your machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/freelanceflow.git](https://github.com/your-username/freelanceflow.git)
+   git clone https://github.com/Gayu2521/freelance-flow/tree/main
